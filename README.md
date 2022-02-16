@@ -1,4 +1,4 @@
-# Mechanic Keyboard Simulator - Mekanik Klavye Simülatörü
+# Mechanic Keyboard Simulator \r\n Mekanik Klavye Simülatörü
 
 
 Mekanik klavyeye çok sahip olmak istiyorsunuz ama olamıyor musunuz? Bu uygulama ile bir mekanik klavyeye sahipmiş gibi olacaksınız. :D 

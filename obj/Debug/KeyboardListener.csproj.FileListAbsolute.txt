@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\bin\Debug\KeyboardListener.exe
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\bin\Debug\KeyboardListener.pdb
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\Example.Form1.resources
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.exe
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.pdb
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\Desktop\KeyboardListener_src\KeyboardListener\obj\Debug\KeyboardListener.csproj.ResolveComReference.cache
